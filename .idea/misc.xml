@@ -5,6 +5,10 @@
       <map>
         <entry key="..\:/Android Develope/Android/6-Nouri-Architectures/1/11-NLiveData/app/src/main/res/layout/activity_main.xml" value="0.18854166666666666" />
         <entry key="..\:/Android Develope/Android/6-Nouri-Architectures/1/11-NLiveData/app/src/main/res/layout/activity_network.xml" value="0.18854166666666666" />
+        <entry key="..\:/Android Develope/Android/6-Nouri-Architectures/1/11-NLiveData/app/src/main/res/layout/activity_room.xml" value="0.18854166666666666" />
+        <entry key="..\:/Android Develope/Android/6-Nouri-Architectures/1/11-NLiveData/app/src/main/res/layout/fragment_add_note.xml" value="0.18854166666666666" />
+        <entry key="..\:/Android Develope/Android/6-Nouri-Architectures/1/11-NLiveData/app/src/main/res/layout/fragment_note_list.xml" value="0.18854166666666666" />
+        <entry key="..\:/Android Develope/Android/6-Nouri-Architectures/1/11-NLiveData/app/src/main/res/layout/list_items.xml" value="0.18854166666666666" />
       </map>
     </option>
   </component>
